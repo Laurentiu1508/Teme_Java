@@ -1,0 +1,11 @@
+Numerele sunt:
+8
+2
+3
+5
+7
+2
+Suma numerelor este: 27
+Media aritmetică este: 4.5
+Minimul este: 2
+Maximul este: 8
