@@ -1,0 +1,3 @@
+Produs{denumire='zahar, pret=1.5, cantitate=40, dataExpirare=2025-02-25}
+Produs{denumire='lapte, pret=9.5, cantitate=1, dataExpirare=2025-01-14}
+Produs{denumire='suc de mere, pret=10.0, cantitate=1, dataExpirare=2024-12-31}
